@@ -1,5 +1,5 @@
 
-export default Error = () => {
+export default ErrorPage = () => {
     return (
         <h1>
             ERROR PAGE
