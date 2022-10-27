@@ -1,8 +1,13 @@
 
-export default ErrorPage = () => {
+const ErrorPage = () => {
     return (
-        <h1>
-            ERROR PAGE
-        </h1>
+        <div>
+            <h1>
+                ERROR PAGE
+            </h1>
+        </div>
+
     )
 }
+
+export default ErrorPage;
